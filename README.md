@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on parallel<br>🌱 I’m currently learning flutter, fastapi<br>👯 I’m looking to collaborate on parallel<br>👨‍💻 All of my projects are available at https://portfolio.chaospunk.space<br>📫 How to reach me ramanbhise1@gmail.com
+🔭 I’m currently working on Parallel (a p2p chat app)<br>
+🌱 I’m currently learning Flutter, Fastapi<br>
+👯 I’m looking to collaborate on Parallel<br>
+👨‍💻 All of my projects are available at https://portfolio.chaospunk.space<br>
+📫 How to reach me ramanbhise1@gmail.com
 
 
 # 💻 Tech Stack:
