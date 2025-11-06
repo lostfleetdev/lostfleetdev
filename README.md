@@ -2,7 +2,7 @@
 🔭 I’m currently working on Parallel (a p2p chat app)<br>
 🌱 I’m currently learning Flutter, Fastapi<br>
 👯 I’m looking to collaborate on Parallel<br>
-👨‍💻 All of my projects are available at https://portfolio.chaospunk.space<br>
+👨‍💻 All of my projects are available at https://raman.chaospunk.space<br>
 📫 How to reach me ramanbhise1@gmail.com
 
 
